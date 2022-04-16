@@ -11,3 +11,10 @@
 ### For whole in detail information:-
 https://ieeexplore.ieee.org/document/9076463
 
+### Repository structure:- 
+- NSL-KDD folder = Contains application codes and files which basically develops a website where user has to input network packet's data and the application will output the attacks detected.
+- out folder = contains the performance results
+- Network Packet capturer (Input) :- 
+- ![capturer](https://user-images.githubusercontent.com/35119744/163683307-7040b23c-158d-4cb8-82dd-af49aca6c201.JPG)
+- Output :- 
+- ![attacks](https://user-images.githubusercontent.com/35119744/163683314-29d5a3f1-64ca-4908-8f58-1fdecc03a72f.JPG)
